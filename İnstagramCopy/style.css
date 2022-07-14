@@ -1,0 +1,181 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+body{
+    background-color: #f8f8f8 ;
+}
+
+.logo{
+    position: relative;
+    left: 100px;
+    top: 150px;
+}
+
+.prf{
+    margin-top: 5px;
+    font-size: 28px;
+    font-family: Arial;
+}
+
+.apple{
+	
+	margin-right:25px ;
+}
+.google{
+	
+	left:35px;
+	
+}
+.x{
+    background-color:#f8f8ff;
+    height: 350px;
+    width: 320px;
+    background-color: white;    
+    position: relative;
+    bottom: 10px;
+	text-align:center;
+    padding: 15px;
+    border: rgba(194, 194, 194, 0.747) solid 1px;
+
+}
+.appdown{
+	
+	    position: relative;
+    font-family: Arial;
+    font-size: 14px;
+	
+}
+.x2{
+left:1px;
+    height: 65px;
+    width: 352px;
+    background-color: white; 
+    border: rgba(194, 194, 194, 0.747) solid 1px;
+
+}
+input{
+    width: 250px;
+    height: 35px;
+    border-radius: 3px;
+    border: rgba(194, 194, 194, 0.747) solid 1px;
+    padding-left: 12px;
+    font-size: 11px;
+    
+}
+input[type="password"]{
+    margin-top: 10px;
+}
+
+input:focus{
+    outline: transparent;
+}
+
+.btn{
+    width: 265px;
+    height: 28px;
+    margin-top: 15px;
+    margin-left: px;
+    border-radius: 2px;
+    border-style: none;
+    background-color: rgb(26, 126, 226);
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
+.btn:hover{
+     background-color: rgb(17, 100, 182);
+}
+
+.ş{
+    color: rgb(26, 126, 226) ;
+    text-decoration: none;
+    position: relative;
+    
+    top: 20px;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.line{
+	
+     position: relative;
+     top: 45px;
+
+     color: rgba(194, 194, 194, 0.747) ;
+     
+}
+
+.kayd{
+	font: arial;
+	text-decoration: none;
+	
+}
+
+.btn2{
+    width: 190px;
+    height: 50px;
+    border-radius: 8px;
+    border-style: none;
+    position: relative;
+    top: 50px;
+    left: 90px;
+    background-color:#0099FF;
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.btn2:hover{
+    background-color:#0099FF ;
+}
+
+.hedear{
+    height: 260px;
+    width: 1930px;
+    background-color: white;
+    position: relative;
+    top: 300px;
+    right: 1100px;
+    
+text-align: center;
+    
+}
+span{
+
+    word-spacing: 10px;
+    font-size: 12px;
+    font-family: Arial;
+    color: rgba(77, 77, 77, 0.651) ;
+    position: relative;
+    top: 30px;
+    right: 150px;
+    
+    
+}
+
+
+.btn3{
+    width: 35px;
+    height: 20px;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    top: 4px;
+}
+.oluştur{
+    position: relative;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.oluştur a{
+ 
+    text-decoration: none;
+    color: #0099FF;
+    font-weight: bolder;
+
+}
+
+
